@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a Frontend Developer & UI/UX Designer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://vsx-one.vercel.app/)
 
 
 ## Table of Contents
