@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/VSLuis1",
   resume:
-    "https://drive.google.com/file/d/1y0IGw2BwUysVewYsHt2yqE63YK1NhA8K/view?usp=drive_link",
+    "https://drive.google.com/file/d/1ZbhPHSE5wbxL4rZQz_506EKBZ57wMNTH/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/luis-meshram/",
   twitter: "https://twitter.com/MeshramLuis",
   insta: "https://www.instagram.com/luis_meshram/",
@@ -265,7 +265,7 @@ export const projects = [
     description:
       "Code Snapper is an innovative project designed to simplify the process of sharing code snippets on social media platforms by generating visually appealing images directly from code input. This tool streamlines the workflow for developers, educators, and tech enthusiasts who want to showcase their code in a visually engaging format without the hassle of manual image creation.",
     image:
-      "https://i.postimg.cc/ZRTYV9R4/code-snapper.png",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/dev/codesnapper.png",
     tags: [
       "React",
       "Tailwind CSS",
@@ -285,7 +285,7 @@ export const projects = [
     description:
       "The Project Kanban Board is a dynamic and visual project management tool designed to streamline workflow and enhance collaboration within teams. Rooted in the principles of Kanban methodology, this board provides a transparent and flexible framework for organizing tasks, tracking progress, and optimizing efficiency in both traditional and agile project environments.",
     image:
-      "https://i.postimg.cc/zD2WHNtV/kanban-board.jpg",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/dev/kanbanboard.jpg",
     tags: ["React Js", "Tailwind CSS", "DND Kit"],
     category: "Dev",
     github: "https://github.com/VSLuis1/kanban-board",
@@ -298,7 +298,7 @@ export const projects = [
     description:
       "Foody is a user-friendly and efficient food ordering application designed to satisfy your cravings with just a few taps on your smartphone. Created as part of a frontend development assignment, this app combines sleek design with seamless functionality to offer a delightful dining experience for users on the go.",
     image:
-      "https://i.postimg.cc/jSDmzR42/foody.png",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/dev/foody.png",
     tags: [
       "React Js",
       "Tailwind CSS",
@@ -315,7 +315,7 @@ export const projects = [
     description:
       "Burger King is an innovative food ordering application that seamlessly integrates the power of conversational AI and advanced journey mapping technology to redefine the way users discover, order, and enjoy their favorite cuisines. Created through a collaborative effort between ChatGPT and MidJourney, It offers a unique and personalized dining experience tailored to each user's preferences and journey.",
     image:
-      "https://i.postimg.cc/QtwNgjFq/ai-food.png",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/dev/aifood.jpg",
     tags: ["HTML", "CSS", "JS", "Chat GPT", "Midjourney"],
     category: "Dev",
     github: "https://github.com/VSLuis1/BurgerKing",
@@ -326,9 +326,9 @@ export const projects = [
     title: "Archi",
     date: "Dec 2021 - Apr 2022",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "Archi is a minimalist website designed to showcase interior design projects. With clean lines and subtle aesthetics, the website offers a sleek platform to display the elegance of interior design work. The focus on minimalism allows the design elements to shine, emphasizing the beauty of the spaces without unnecessary clutter. This project demonstrates my ability to create visually appealing and user-friendly digital experiences while highlighting the sophistication of interior design concepts",
     image:
-      "https://github.com/VSLuis1/architecture_landing_page/raw/main/public/img/preview.jpg",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/dev/architecture.png",
     tags: ["Next JS", "Tailwind CSS"],
     category: "Dev",
     github: "https://github.com/VSLuis1/architecture_landing_page",
@@ -337,16 +337,55 @@ export const projects = [
   },
   {
     id: 10,
-    title: "AI Chatbot Design",
-    date: "Nov 2023 - Nov 2023",
+    title: "Flashwork (Case study)",
+    date: "Feb 2024 - March 2023",
     description:
-      "AI Chatbot Design in Figma: Crafting intuitive conversational interfaces with precision and creativity, leveraging the power of artificial intelligence.",
+      "Flash Work is a service booking app project where I led the design process from conceptualization to implementation. Focused on user convenience, the app streamlines service discovery, booking, and management. Through iterative design cycles and user feedback, I ensured an intuitive interface while overcoming challenges in integrating complex service offerings. This project showcases my expertise in UI design, UX research, and iterative prototyping, resulting in a seamless and user-friendly experience.",
     image:
-      "https://i.postimg.cc/C1w3X12N/Ai-Chatbot.png",
-    tags: ["Lunacy"],
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/flashwork.jpg",
+    tags: ["Figma","Notion","Forms","PS","Illustrator"],
     category: "Design",
-    // github: "https://github.com/rishavchanda/Job-finder-App",
-    // webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://www.behance.net/gallery/193463207/Flash-Work-UI-UX-Case-Study",
+    webapp: "https://www.figma.com/proto/cKgxaYaJMUUBQIrDKMIewR/Project-Flash-Work?type=design&node-id=99-4310&t=eLy7cjsNDZGPSRZ0-0&scaling=min-zoom&page-id=99%3A4309&starting-point-node-id=99%3A5544&show-proto-sidebar=1",
+  },
+  {
+    id: 6,
+    title: "Vision (Case study)",
+    date: "Jan 2024",
+    description:
+      "Vision is a cutting-edge project exploring the integration of AI technology into UI design. As the designer, I conceptualized and implemented a revolutionary AI-powered UI designer aimed at enhancing efficiency and creativity in the design process. By leveraging advanced AI algorithms, Vision automates repetitive tasks and suggests design elements, empowering designers to focus on innovation and problem-solving. This project highlights my expertise in UI/UX design, AI integration, and user-centric innovation.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/vision.jpg",
+    tags: ["Figma", "Excel Draw", "Miro", "UiZard"],
+    category: "Design",
+    github: "https://www.behance.net/gallery/192494973/Vision-UX-Case-Study",
+    webapp: "https://www.figma.com/proto/RfPrDxTj0uW2f2Qc6nS0TB/Project---Ai-Designer?type=design&node-id=1-571&t=A12ItGSQF6VYTmSS-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A571&show-proto-sidebar=1&mode=design",
+  },
+  {
+    id: 8,
+    title: "Tadoba - Redesign",
+    date: "Jan 2024",
+    description:
+      "Tadoba Tiger Reserve is a website redesign project aimed at enhancing the digital presence of this renowned tiger reserve forest. With a focus on user experience and accessibility, the redesigned website provides visitors with an immersive and informative experience. Through strategic layout changes, improved navigation, and visually compelling elements, the website effectively showcases the rich biodiversity and conservation efforts of Tadoba Tiger Reserve. This project highlights my commitment to creating engaging digital experiences that promote environmental awareness and eco-tourism.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/tadoba.jpg",
+    tags: ["Figma"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+  },
+  {
+    id: 5,
+    title: "Feedback Flow",
+    date: "Dec 2023",
+    description:
+      "Feedback Flow is an innovative approach to getting feedback from user within mobile and web applications, meticulously crafted using the powerful design features of Figma. This design concept aims to optimize the user experience by seamlessly integrating feedback mechanisms into the app interface, fostering user engagement, and facilitating continuous improvement based on user input.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/feedback.jpg",
+    tags: ["Figma", "Excel Draw"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Todo-Web-App",
+    // webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
     id: 4,
@@ -355,64 +394,28 @@ export const projects = [
     description:
       "Planty is an innovative web application that serves as both a marketplace for plant enthusiasts and a comprehensive platform for plant care guidance and management. Designed using Lunacy, Planty offers a visually appealing and intuitive interface that seamlessly integrates plant shopping, care tips, and community engagement, catering to both novice gardeners and seasoned plant lovers alike.",
     image:
-      "https://i.postimg.cc/sxBd3L4H/Plant-Care-website-design1.png",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/planty.jpg",
     tags: ["Lunacy", "Excel Draw"],
     category: "Design",
     // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
     // webapp: "https://whatsapp-clone-rishav.web.app",
   },
-  {
-    id: 5,
-    title: "Feedback Flow Design",
-    date: "Nov 2023",
-    description:
-      "Feedback Flow is an innovative approach to getting feedback from user within mobile and web applications, meticulously crafted using the powerful design features of Figma. This design concept aims to optimize the user experience by seamlessly integrating feedback mechanisms into the app interface, fostering user engagement, and facilitating continuous improvement based on user input.",
-    image:
-      "https://i.postimg.cc/CLsG7Kg7/Screenshot-2024-02-21-013011.png",
-    tags: ["Figma", "Excel Draw"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Todo-Web-App",
-    // webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Ai Designer Web Design",
-    date: "Jan 2024",
-    description:
-      "Ai Designer is an innovative web app design tool that leverages the power of artificial intelligence to streamline the web app design process. Seamlessly integrated with Figma, Ai Designer enhances designers' creativity and productivity by offering intelligent prompts and suggestions throughout the design journey. With its intuitive interface and advanced AI capabilities, Ai Designer is poised to revolutionize the way web apps are conceptualized, prototyped, and developed.",
-    image:
-      "https://i.postimg.cc/YSs3mNGZ/Homepage.png",
-    tags: ["Figma", "Excel Draw", "Miro"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Breaking-Bad",
-    // webapp: "https://breaking-bad-webapp.netlify.app",
-  },
+  
+  
   {
     id: 7,
     title: "Interior Web Design",
-    date: "Dec 2023 - Jan 2024",
+    date: "Nov 2023",
     description:
       "VSx Interior is a visionary project showcasing the artistry of interior design through meticulously crafted website interfaces designed using Lunacy. This innovative endeavor aims to inspire and captivate visitors with immersive digital experiences that showcase the beauty, functionality, and creativity of interior spaces. Leveraging Lunacy's versatile design tools, InteriorWeb offers a seamless blend of aesthetics and functionality, setting a new standard for online platforms dedicated to interior design.",
     image:
-      "https://i.postimg.cc/QMvjYPKb/Interior-website-design.png",
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/interior.jpg",
     tags: ["Lunacy"],
     category: "Design",
     // github: "https://github.com/rishavchanda/Quiz-Earn",
     // webapp: "https://github.com/rishavchanda/Quiz-Earn",
   },
-  {
-    id: 8,
-    title: "Task Ease app Design",
-    date: "Jan 2021",
-    description:
-      "TaskEase is a revolutionary mobile app designed to streamline task management and enhance productivity, meticulously crafted using Lunacy. This innovative to-do list app offers users a sleek and intuitive interface coupled with powerful features to help them organize their tasks, prioritize their activities, and accomplish their goals with ease. With its minimalist design, seamless user experience, and seamless integration with Lunacy, TaskEase sets a new standard for mobile productivity apps, empowering users to stay organized and focused on their tasks wherever they go.",
-    image:
-      "https://i.postimg.cc/d1mSZHd6/i-Phone-14-15-Pro-Max-1-2x.png",
-    tags: ["Lunacy"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+  
 ];
 
 export const TimeLineData = [
