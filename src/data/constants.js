@@ -242,6 +242,86 @@ export const education = [
 
 export const projects = [
   {
+    id: 10,
+    title: "Flashwork (Case study)",
+    date: "Feb 2024 - March 2023",
+    description:
+      "Flash Work is a service booking app project where I led the design process from conceptualization to implementation. Focused on user convenience, the app streamlines service discovery, booking, and management. Through iterative design cycles and user feedback, I ensured an intuitive interface while overcoming challenges in integrating complex service offerings. This project showcases my expertise in UI design, UX research, and iterative prototyping, resulting in a seamless and user-friendly experience.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/flashwork.jpg",
+    tags: ["Figma","Notion","Forms","PS","Illustrator"],
+    category: "Design",
+    github: "https://www.behance.net/gallery/193463207/Flash-Work-UI-UX-Case-Study",
+    webapp: "https://www.figma.com/proto/cKgxaYaJMUUBQIrDKMIewR/Project-Flash-Work?type=design&node-id=99-4310&t=eLy7cjsNDZGPSRZ0-0&scaling=min-zoom&page-id=99%3A4309&starting-point-node-id=99%3A5544&show-proto-sidebar=1",
+  },
+  {
+    id: 6,
+    title: "Vision (Case study)",
+    date: "Jan 2024",
+    description:
+      "Vision is a cutting-edge project exploring the integration of AI technology into UI design. As the designer, I conceptualized and implemented a revolutionary AI-powered UI designer aimed at enhancing efficiency and creativity in the design process. By leveraging advanced AI algorithms, Vision automates repetitive tasks and suggests design elements, empowering designers to focus on innovation and problem-solving. This project highlights my expertise in UI/UX design, AI integration, and user-centric innovation.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/vision.jpg",
+    tags: ["Figma", "Excel Draw", "Miro", "UiZard"],
+    category: "Design",
+    github: "https://www.behance.net/gallery/192494973/Vision-UX-Case-Study",
+    webapp: "https://www.figma.com/proto/RfPrDxTj0uW2f2Qc6nS0TB/Project---Ai-Designer?type=design&node-id=1-571&t=A12ItGSQF6VYTmSS-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A571&show-proto-sidebar=1&mode=design",
+  },
+  {
+    id: 8,
+    title: "Tadoba - Redesign",
+    date: "Jan 2024",
+    description:
+      "Tadoba Tiger Reserve is a website redesign project aimed at enhancing the digital presence of this renowned tiger reserve forest. With a focus on user experience and accessibility, the redesigned website provides visitors with an immersive and informative experience. Through strategic layout changes, improved navigation, and visually compelling elements, the website effectively showcases the rich biodiversity and conservation efforts of Tadoba Tiger Reserve. This project highlights my commitment to creating engaging digital experiences that promote environmental awareness and eco-tourism.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/tadoba.jpg",
+    tags: ["Figma"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+  },
+  {
+    id: 5,
+    title: "Feedback Flow",
+    date: "Dec 2023",
+    description:
+      "Feedback Flow is an innovative approach to getting feedback from user within mobile and web applications, meticulously crafted using the powerful design features of Figma. This design concept aims to optimize the user experience by seamlessly integrating feedback mechanisms into the app interface, fostering user engagement, and facilitating continuous improvement based on user input.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/feedback.jpg",
+    tags: ["Figma", "Excel Draw"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Todo-Web-App",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Planty Web Design",
+    date: "Oct 2023",
+    description:
+      "Planty is an innovative web application that serves as both a marketplace for plant enthusiasts and a comprehensive platform for plant care guidance and management. Designed using Lunacy, Planty offers a visually appealing and intuitive interface that seamlessly integrates plant shopping, care tips, and community engagement, catering to both novice gardeners and seasoned plant lovers alike.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/planty.jpg",
+    tags: ["Lunacy", "Excel Draw"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    // webapp: "https://whatsapp-clone-rishav.web.app",
+  },
+  
+  
+  {
+    id: 7,
+    title: "Interior Web Design",
+    date: "Nov 2023",
+    description:
+      "VSx Interior is a visionary project showcasing the artistry of interior design through meticulously crafted website interfaces designed using Lunacy. This innovative endeavor aims to inspire and captivate visitors with immersive digital experiences that showcase the beauty, functionality, and creativity of interior spaces. Leveraging Lunacy's versatile design tools, InteriorWeb offers a seamless blend of aesthetics and functionality, setting a new standard for online platforms dedicated to interior design.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/interior.jpg",
+    tags: ["Lunacy"],
+    category: "Design",
+    // github: "https://github.com/rishavchanda/Quiz-Earn",
+    // webapp: "https://github.com/rishavchanda/Quiz-Earn",
+  },
+  {
     id: 11,
     title: "Ai Art Marketplace",
     date: "Oct 2023 - Nov 2023",
@@ -335,87 +415,6 @@ export const projects = [
     webapp: "https://architecture-leoboyluis143-gmailcom.vercel.app/",
     
   },
-  {
-    id: 10,
-    title: "Flashwork (Case study)",
-    date: "Feb 2024 - March 2023",
-    description:
-      "Flash Work is a service booking app project where I led the design process from conceptualization to implementation. Focused on user convenience, the app streamlines service discovery, booking, and management. Through iterative design cycles and user feedback, I ensured an intuitive interface while overcoming challenges in integrating complex service offerings. This project showcases my expertise in UI design, UX research, and iterative prototyping, resulting in a seamless and user-friendly experience.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/flashwork.jpg",
-    tags: ["Figma","Notion","Forms","PS","Illustrator"],
-    category: "Design",
-    github: "https://www.behance.net/gallery/193463207/Flash-Work-UI-UX-Case-Study",
-    webapp: "https://www.figma.com/proto/cKgxaYaJMUUBQIrDKMIewR/Project-Flash-Work?type=design&node-id=99-4310&t=eLy7cjsNDZGPSRZ0-0&scaling=min-zoom&page-id=99%3A4309&starting-point-node-id=99%3A5544&show-proto-sidebar=1",
-  },
-  {
-    id: 6,
-    title: "Vision (Case study)",
-    date: "Jan 2024",
-    description:
-      "Vision is a cutting-edge project exploring the integration of AI technology into UI design. As the designer, I conceptualized and implemented a revolutionary AI-powered UI designer aimed at enhancing efficiency and creativity in the design process. By leveraging advanced AI algorithms, Vision automates repetitive tasks and suggests design elements, empowering designers to focus on innovation and problem-solving. This project highlights my expertise in UI/UX design, AI integration, and user-centric innovation.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/vision.jpg",
-    tags: ["Figma", "Excel Draw", "Miro", "UiZard"],
-    category: "Design",
-    github: "https://www.behance.net/gallery/192494973/Vision-UX-Case-Study",
-    webapp: "https://www.figma.com/proto/RfPrDxTj0uW2f2Qc6nS0TB/Project---Ai-Designer?type=design&node-id=1-571&t=A12ItGSQF6VYTmSS-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A571&show-proto-sidebar=1&mode=design",
-  },
-  {
-    id: 8,
-    title: "Tadoba - Redesign",
-    date: "Jan 2024",
-    description:
-      "Tadoba Tiger Reserve is a website redesign project aimed at enhancing the digital presence of this renowned tiger reserve forest. With a focus on user experience and accessibility, the redesigned website provides visitors with an immersive and informative experience. Through strategic layout changes, improved navigation, and visually compelling elements, the website effectively showcases the rich biodiversity and conservation efforts of Tadoba Tiger Reserve. This project highlights my commitment to creating engaging digital experiences that promote environmental awareness and eco-tourism.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/tadoba.jpg",
-    tags: ["Figma"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
-  {
-    id: 5,
-    title: "Feedback Flow",
-    date: "Dec 2023",
-    description:
-      "Feedback Flow is an innovative approach to getting feedback from user within mobile and web applications, meticulously crafted using the powerful design features of Figma. This design concept aims to optimize the user experience by seamlessly integrating feedback mechanisms into the app interface, fostering user engagement, and facilitating continuous improvement based on user input.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/feedback.jpg",
-    tags: ["Figma", "Excel Draw"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Todo-Web-App",
-    // webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 4,
-    title: "Planty Web Design",
-    date: "Oct 2023",
-    description:
-      "Planty is an innovative web application that serves as both a marketplace for plant enthusiasts and a comprehensive platform for plant care guidance and management. Designed using Lunacy, Planty offers a visually appealing and intuitive interface that seamlessly integrates plant shopping, care tips, and community engagement, catering to both novice gardeners and seasoned plant lovers alike.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/planty.jpg",
-    tags: ["Lunacy", "Excel Draw"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    // webapp: "https://whatsapp-clone-rishav.web.app",
-  },
-  
-  
-  {
-    id: 7,
-    title: "Interior Web Design",
-    date: "Nov 2023",
-    description:
-      "VSx Interior is a visionary project showcasing the artistry of interior design through meticulously crafted website interfaces designed using Lunacy. This innovative endeavor aims to inspire and captivate visitors with immersive digital experiences that showcase the beauty, functionality, and creativity of interior spaces. Leveraging Lunacy's versatile design tools, InteriorWeb offers a seamless blend of aesthetics and functionality, setting a new standard for online platforms dedicated to interior design.",
-    image:
-      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/interior.jpg",
-    tags: ["Lunacy"],
-    category: "Design",
-    // github: "https://github.com/rishavchanda/Quiz-Earn",
-    // webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  
 ];
 
 export const TimeLineData = [

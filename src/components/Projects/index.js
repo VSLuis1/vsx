@@ -21,16 +21,16 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('Dev')}>Dev</ToggleButton>
-            :
-            <ToggleButton value="web app" onClick={() => setToggle('Dev')}>Dev</ToggleButton>
-          }
-          <Divider />
           {toggle === 'android app' ?
             <ToggleButton active value="android app" onClick={() => setToggle('Design')}>Design</ToggleButton>
             :
             <ToggleButton value="android app" onClick={() => setToggle('Design')}>Design</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'web app' ?
+            <ToggleButton active value="web app" onClick={() => setToggle('Dev')}>Dev</ToggleButton>
+            :
+            <ToggleButton value="web app" onClick={() => setToggle('Dev')}>Dev</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
