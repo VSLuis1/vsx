@@ -277,7 +277,7 @@ export const projects = [
       "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/tadoba.jpg",
     tags: ["Figma"],
     category: "Design",
-    // github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://www.behance.net/gallery/194049693/Tadoba-Redesign",
     // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
   {
@@ -290,7 +290,7 @@ export const projects = [
       "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/feedback.jpg",
     tags: ["Figma", "Excel Draw"],
     category: "Design",
-    // github: "https://github.com/rishavchanda/Todo-Web-App",
+    github: "https://www.behance.net/gallery/194047455/In-App-feedback-User-work-flow",
     // webapp: "https://rishav-react-todo.netlify.app/",
   },
   {
@@ -318,7 +318,7 @@ export const projects = [
       "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/interior.jpg",
     tags: ["Lunacy"],
     category: "Design",
-    // github: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://www.behance.net/gallery/194083759/VSx-Interior-Landing-page",
     // webapp: "https://github.com/rishavchanda/Quiz-Earn",
   },
   {
