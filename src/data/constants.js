@@ -5,7 +5,7 @@ export const Bio = {
     "UI/UX Designer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am Luis M., a passionate UI/UX designer with a strong background in design and frontend development. I specialize in creating intuitive and visually appealing user interfaces, with experience in tools like Figma, Sketch, and Adobe XD.",
   github: "https://github.com/VSLuis1",
   resume:
     "https://drive.google.com/file/d/1ZbhPHSE5wbxL4rZQz_506EKBZ57wMNTH/view?usp=drive_link",
@@ -242,9 +242,22 @@ export const education = [
 
 export const projects = [
   {
+    id: 11,
+    title: "Streak (Case study)",
+    date: "May 2024 - June 2024",
+    description:
+      "recent project I've been working on: Designing the WhatsApp Streak Feature! WhatsApp identified a challenge: users weren't engaging as much with their contacts as before. So, I led the design effort to create a solution that strengthens relationships and encourages regular communication.",
+    image:
+      "https://github.com/VSLuis1/portfolio-files/raw/main/public/img/design/whatsapp.jpg",
+    tags: ["Figma","Notion","Meet","PS","Illustrator"],
+    category: "Design",
+    github: "https://www.behance.net/gallery/198375723/Streaks-",
+    webapp: "https://www.figma.com/proto/rEjKDt2Q71HRT1X3a2xCor/WhatsApp-Streak-%F0%9F%94%A5?node-id=1-7908&t=pCPoP18UpESvE5MR-0&scaling=scale-down&page-id=1%3A7906",
+  },
+  {
     id: 10,
     title: "Flashwork (Case study)",
-    date: "Feb 2024 - March 2023",
+    date: "Feb 2024 - March 2024",
     description:
       "Flash Work is a service booking app project where I led the design process from conceptualization to implementation. Focused on user convenience, the app streamlines service discovery, booking, and management. Through iterative design cycles and user feedback, I ensured an intuitive interface while overcoming challenges in integrating complex service offerings. This project showcases my expertise in UI design, UX research, and iterative prototyping, resulting in a seamless and user-friendly experience.",
     image:
