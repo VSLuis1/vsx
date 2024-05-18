@@ -5,7 +5,7 @@ export const Bio = {
     "UI/UX Designer",
   ],
   description:
-    "I am Luis M., a passionate UI/UX designer with a strong background in design and frontend development. I specialize in creating intuitive and visually appealing user interfaces, with experience in tools like Figma, Sketch, and Adobe XD.",
+    "A passionate UI/UX designer with a strong background in design and frontend development. I specialize in creating intuitive and visually appealing user interfaces, with experience in tools like Figma, Sketch, and Adobe XD.",
   github: "https://github.com/VSLuis1",
   resume:
     "https://drive.google.com/file/d/1ZbhPHSE5wbxL4rZQz_506EKBZ57wMNTH/view?usp=drive_link",
