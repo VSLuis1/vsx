@@ -8,8 +8,8 @@ export const Bio = {
     "A passionate UI/UX designer with a strong background in design and frontend development. I specialize in creating intuitive and visually appealing user interfaces, with experience in tools like Figma, Sketch, and Adobe XD.",
   github: "https://github.com/VSLuis1",
   resume:
-    "https://drive.google.com/file/d/1ZbhPHSE5wbxL4rZQz_506EKBZ57wMNTH/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/luis-meshram/",
+    "https://drive.google.com/file/d/1ZQgB2u4-3TK1SINIZ2iHkFDEA0mOPF8n/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/vsx-luis/",
   twitter: "https://twitter.com/MeshramLuis",
   insta: "https://www.instagram.com/luis_meshram/",
 };
